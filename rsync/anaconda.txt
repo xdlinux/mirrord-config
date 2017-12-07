@@ -1,0 +1,14 @@
++ archive/
++ archive/Anaconda2-5.*-x86_64*
++ archive/Anaconda3-5.*-x86_64*
+
++ pkgs
++ pkgs/*
++ pkgs/*/linux-64
++ pkgs/*/linux-64/***
++ pkgs/*/noarch
++ pkgs/*/noarch/***
+
++ failed_packages.txt
+
+- *

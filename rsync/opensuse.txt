@@ -1,0 +1,14 @@
++ distribution
++ distribution/openSUSE-*
++ distribution/openSUSE-*/***
++ distribution/leap
+- distribution/leap/42.1
++ distribution/leap/***
++ update
++ update/openSUSE-*
++ update/openSUSE-*/***
++ update/leap
+- update/leap/42.1*
+- update/leap/*-test
++ update/leap/***
+- *
