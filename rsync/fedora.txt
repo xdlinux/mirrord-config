@@ -1,10 +1,6 @@
 - releases/*/*/*/debug
 - updates/*/*/debug
 + releases
-+ releases/25
-+ releases/25/*
-+ releases/25/*/x86_64
-+ releases/25/*/x86_64/***
 + releases/26
 + releases/26/*
 + releases/26/*/x86_64
@@ -14,9 +10,6 @@
 + releases/27/*/x86_64
 + releases/27/*/x86_64/***
 + updates
-+ updates/25
-+ updates/25/x86_64
-+ updates/25/x86_64/***
 + updates/26
 + updates/26/x86_64
 + updates/26/x86_64/***
