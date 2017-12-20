@@ -6,6 +6,10 @@
 + pkgs/*
 + pkgs/*/linux-64
 + pkgs/*/linux-64/***
++ pkgs/*/win-64
++ pkgs/*/win-64/***
++ pkgs/*/osx-64
++ pkgs/*/osx-64/***
 + pkgs/*/noarch
 + pkgs/*/noarch/***
 
